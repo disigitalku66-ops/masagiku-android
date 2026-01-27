@@ -1,0 +1,33 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "masagiku-android",
+                    "appId": "1:400924873641:android:40c136cb934a238448aab8",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "masagiku-android",
+                    "configurations": {
+                        "android": "1:400924873641:android:40c136cb934a238448aab8"
+                    }
+                }
+            }
+        }
+    },
+    "emulators": {
+        "auth": {
+            "port": 9099
+        },
+        "firestore": {
+            "port": 8080
+        },
+        "ui": {
+            "enabled": true
+        },
+        "singleProjectMode": true
+    }
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400924873641",
+    "project_id": "masagiku-android",
+    "storage_bucket": "masagiku-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400924873641:android:40c136cb934a238448aab8",
+        "android_client_info": {
+          "package_name": "com.masagi.masagiku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpLBx3dM0WQa4Kmpt2S8bnF4epIjigQOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

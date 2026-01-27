@@ -1,0 +1,28 @@
+# Masagiku: Belanja Mudah & Terpercaya
+
+## Deskripsi Singkat
+Masagiku adalah aplikasi e-commerce modern untuk segala kebutuhan Anda. Belanja produk berkualitas dengan harga terbaik, hanya di Masagiku.
+
+## Deskripsi Lengkap
+Selamat datang di Masagiku, solusi belanja online terbaik Anda! 
+
+Nikmati pengalaman belanja yang mulus, aman, dan menyenangkan langsung dari genggaman tangan Anda. Masagiku menghadirkan ribuan produk pilihan dari berbagai kategori mulai dari fashion, elektronik, kebutuhan rumah tangga, hingga produk lokal unggulan.
+
+### Kenapa Memilih Masagiku?
+- **🛒 Koleksi Terlengkap**: Temukan apapun yang Anda cari dengan mudah.
+- **💰 Harga Terbaik**: Dapatkan penawaran menarik dan diskon eksklusif setiap hari.
+- **🚚 Pengiriman Cepat**: Kami bekerja sama dengan kurir terpercaya untuk memastikan pesanan sampai tepat waktu.
+- **💳 Pembayaran Aman**: Berbagai metode pembayaran yang aman dan transparan.
+- **💬 Chat dengan Penjual**: Tanya-tanya produk langsung ke penjual dengan fitur chat built-in.
+- **⭐ Ulasan Terpercaya**: Lihat ulasan asli dari pembeli untuk pilihan yang lebih mantap.
+
+### Fitur Unggulan:
+- Navigasi intuitif dan desain modern (Clear UI/UX).
+- Fitur Perbandingan Produk (Compare) untuk membantu Anda memilih yang terbaik.
+- Wishlist untuk menyimpan produk impian Anda.
+- Tracking Pesanan real-time.
+- Notifikasi promo dan status pesanan langsung ke HP Anda.
+
+Download Masagiku sekarang dan mulailah pengalaman belanja masa kini yang lebih praktis!
+
+**Masagiku - Satu Aplikasi, Segala Solusi.**
