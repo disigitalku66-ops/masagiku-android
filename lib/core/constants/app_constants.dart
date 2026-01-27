@@ -8,7 +8,7 @@ abstract class AppConstants {
   static const String apiVersion = 'v4';
 
   // For development (Android Emulator localhost)
-  static const String devBaseUrl = 'http://10.0.2.2/api';
+  static const String devBaseUrl = 'http://10.0.2.2/masagiku/public/api';
 
   // For production
   static const String prodBaseUrl = 'https://masagiku.com/api';
