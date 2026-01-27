@@ -21,7 +21,7 @@ abstract class AppConstants {
       return 'http://localhost/masagiku/public/api';
     } else if (defaultTargetPlatform == TargetPlatform.android) {
       // For Android Emulator (10.0.2.2 maps to host localhost)
-      return 'http://10.0.2.2/api';
+      return devBaseUrl;
     } else {
       // Default / iOS Simulator
       return 'http://localhost/api';
